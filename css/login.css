@@ -6,7 +6,20 @@ body{
 	height: 100%;
 }
 
-.index-header{
+.index-main{
+    min-height: 800px;
+    min-width: 400px;
+    background: #ffff00;
 	margin:0 auto;
 	text-align: center;
 }
+
+.index-header .logo{
+    margin: 0 auto;
+    background:url("../img/logo.6837e927.png") no-repeat;
+}
+
+.hide-text{
+    color:transparent;
+}
+
