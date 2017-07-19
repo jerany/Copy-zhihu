@@ -1,25 +1,41 @@
-body{
-	color: #555;
-	font-size: 15px;
-	line-height: 1.7;
-	width: 100%;
-	height: 100%;
+html{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 微软雅黑;
+    text-align: center;
 }
 
-.index-main{
-    min-height: 800px;
-    min-width: 400px;
-    background: #ffff00;
-	margin:0 auto;
-	text-align: center;
+body{
+    width: 100%;
+    height: 100%;
+    min-width: 800px;
+    margin: 0 auto;
+}
+
+.index-main-body{
+    min-height: 590px;
+    vertical-align: middle;
+}
+
+.index-header{
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .index-header .logo{
+    background: url("../img/logo.6837e927.png") no-repeat center;
+    background-size: contain;
+    height: 74px;
+    width: 160px;
     margin: 0 auto;
-    background:url("../img/logo.6837e927.png") no-repeat;
 }
 
 .hide-text{
     color:transparent;
 }
 
+.index-header .subtitle{
+    font-size: 18px;
+    font-weight: 400;
+}
