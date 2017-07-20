@@ -21,6 +21,7 @@ body{
 .index-header{
     display: inline-block;
     vertical-align: middle;
+    margin-top: 70px;
 }
 
 .index-header .logo{
@@ -38,4 +39,20 @@ body{
 .index-header .subtitle{
     font-size: 18px;
     font-weight: 400;
+}
+
+.sign-flow{
+
+}
+
+.index-table-nav{
+
+}
+
+.view-signin{
+
+}
+
+.view-signup{
+    
 }
