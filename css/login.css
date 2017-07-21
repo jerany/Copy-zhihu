@@ -37,6 +37,7 @@ body{
 }
 
 .index-header .subtitle{
+    margin-top: 30px;
     font-size: 18px;
     font-weight: 400;
 }
@@ -45,8 +46,26 @@ body{
 
 }
 
-.index-table-nav{
+.index-tab-navs{
 
+}
+
+.index-tab-navs .navs-sider{
+
+}
+
+.index-tab-navs .navs-sider a{
+
+}
+
+.index-tab-navs .navs-sider a:link,a:visited,a:hover{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+}
+
+.index-tab-navs .navs-sider a:active{
+    color: #0f88eb;
 }
 
 .view-signin{
