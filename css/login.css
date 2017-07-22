@@ -64,9 +64,9 @@ body{
     font-size: 20px;
 }
 
-.index-tab-navs .navs-sider a:active{
+.index-tab-navs .navs-sider a:active{ 
     color: #0f88eb;
-}
+}   
 
 .view-signin{
 
